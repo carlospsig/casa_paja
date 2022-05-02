@@ -8,11 +8,11 @@ Llamamos y pedimos que nos informen del procedimiento de campra.
 Contactamos con la inmobiliaria y empezamos a cruzar mails ....
 
 
-#### HAcemos una oferta a la SAREB
+#### Hacemos una oferta a la SAREB
 
 El primer paso es una una oferta de compra, pedimos comprar la parcela por 45.000 € + IVA
 La respuesta es negativa, nos piden 50.000 € + IVA, aceptamos, sigue siendo un precio aceptable.
 
 
 
-[siguiente (02_limpieza_parcela.md](02_limpieza_parcela.md) 
+[siguiente >>> 02_limpieza_parcela.md](02_limpieza_parcela.md) 
