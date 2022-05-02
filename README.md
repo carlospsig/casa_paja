@@ -1,37 +1,18 @@
-## Welcome to GitHub Pages
+## Casa de paja (Corbera de Llobregat)
 
-You can use the [editor on GitHub](https://github.com/carlospsig/casa_paja/edit/main/README.md) to maintain and preview the content for your website in Markdown files.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+### Primeros pasos - Compra de la parcela
 
-### Markdown
+Vimos en los portales inmobiliarios qeu la SAREB ponía a la venta todas las parcelas de la a través de un agente API de Molins de Rei.
+Llamamos y pedimos que nos informen del procedimiento de campra.
+Contactamos con la inmobiliaria y empezamos a cruzar mails ....
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
 
-```markdown
-Syntax highlighted code block
+#### HAcemos una oferta a la SAREB
 
-# Header 1
-## Header 2
-### Header 3
+El primer paso es una una oferta de compra, pedimos comprar la parcela por 45.000 € + IVA
+La respuesta es negativa, nos piden 50.000 € + IVA, aceptamos, sigue siendo un precio aceptable.
 
-- Bulleted
-- List
 
-1. Numbered
-2. List
 
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [Basic writing and formatting syntax](https://docs.github.com/en/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/carlospsig/casa_paja/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
+[siguiente (02_limpieza_parcela.md](02_limpieza_parcela.md) 
