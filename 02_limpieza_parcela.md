@@ -8,6 +8,9 @@ Está muy sucia, contratamos la limpieza a una empresa especializada.
 
 #### Hacemos 
 
+[siguiente >>> 03_GeoTecnico y topográfico (03_geotecnico_topografico.md) ]
 
 
-[siguiente >>> 03_GeoTecnico y topográfico (03_geotecnico_topografico.md) 
+#### Siguientes pasos
+
+ 
